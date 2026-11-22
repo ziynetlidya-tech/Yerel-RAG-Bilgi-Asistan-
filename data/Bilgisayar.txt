@@ -1,0 +1,15 @@
+
+VAKUM TÜPLERİ = İlk nesil bilgisayarlarda kullanıldı. arasında boşluk var. KATOTTAN ANODA ELEKTRON GEÇİŞİ OLUR. Elektrik sinyallerini kontrol etmek için görev yapardı.Büyük boyutlu, çok ısınan ve fazla enerji tüketen hızlı arızalanan yapılardı. yarı iletken maddeyi etkisiz hale getirmek Daha sonra yerlerini transistörlere bıraktılar.
+
+
+Transistör: yan yana birleştirilmiş iki PN diyotundan oluşan, girişine uygulanan sinyali yükselterek akım ve gerilim kazancı sağlayan, gerektiğinde anahtarlama elemanı olarak kullanılan yarı iletken bir devre elemanıdır.» elektriği kontrol altına alabiliyor AÇIK = 1, TRUE, HİGH, 5V --- KAPALI = 0, FALSE, LOW, 0V
+
+
+BİLGİSAYAR= Bilgisayar; aldığı verileri (bilgileri), önceden yüklenmiş belirli programlara göre, mantıksal ve aritmetiksel işlemleri kullanarak işleyen, bilginin sonucunu çıkartan ve bu verileri uygun ortamlarda saklayabilen ve yine istenildiğinde geri getirebilen elektronik bir cihazdır.
+
+
+İŞLEMCİ = Bilgisayarlarda bütün işlemler merkezi işlem ünitesinde yani işlemcide yapılır (CPU). belirli mantık ve matematik işlemlerini elektronik olarak yapabilecek biçimde, verilen komutları yorumlayan ve yürüten, çok sayıda transistörden oluşmuş tümleşik (entegre) devrelerdir
+
+
+ELEKTRiK = atom çekirdek proton nötron elektron tanımı sonrasında negatif yükler serbest kalır böylece elektron hareketleriyle elektrik oluşur - elektriği en iyi bakır iletir
+

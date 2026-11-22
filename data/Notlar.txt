@@ -1,0 +1,44 @@
+﻿null = değersiz
+
+Class = referans tipi veri tipleridir. Referans tipleri veriler, HEAP bölgesinde tutulur ve null değer alabilirler. Null referanslar üstünden işlem yapılırsa, Runtime sırasında NullReferenceException hatası alınır.
+
+Constructor = Class içinde tanımlanan field'lara varsayılan değer atamasını yapan metodlardır. Bu metodlar class içinde her zaman bulunurlar. Bir classtan nesne türetilir türetilmez çalışan ilk metoddur.
+
+
+﻿using System;
+
+namespace Sube1.EmlakciLib
+{
+    public class Ev
+    {
+        public Ev()
+        {
+
+        }
+        public Ev(int odasayisi, int katno, string semt, double alan)
+        {
+            this.odasayisi = odasayisi;
+            this.katno = katno;
+            this.semt = semt;
+            this.alan = alan;
+        }
+        public Ev(int odasayisi, int katno, double alan)
+        {
+            this.alan = alan;
+            this.odasayisi = odasayisi;
+            this.katno = katno;
+            this.semt = "Gazi";
+        }
+
+        public int odasayisi;
+        public int katno;
+        public string semt;
+        public double alan;
+
+        public string EvBilgileri()
+        {
+            return $"Oda Sayısı:{this.odasayisi}\nKat No:{this.katno}\nSemt:{this.semt}\nAlan:{this.alan}m2";
+        }
+    }
+}
+

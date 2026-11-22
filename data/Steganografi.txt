@@ -1,0 +1,26 @@
+Ses Steganografisi Yöntemleri 
+1-LSB Kodlaması (örnekleme seçimi, hash fonksiyonu) en kolay yol
+2-Eşlik Kodlaması ( parity ) 
+3-Aşama Kodlaması ( dft, faz ) insanların duyamayacağı sesler üzerine
+4-Tayf  Yayılımı (spektrum) Direct-Sequence ve Frequency-hopping
+5-Yankı Veri Gizlemesi (Echo hiding EH) otokorelasyon
+
+
+
+Metin Steganografisi Yöntemleri
+1-AÇIK ALAN YÖNTEMLERİ
+                     1.1-CÜMLE İÇİ BOŞLUK BIRAKMA
+                     1.2-SATIR KAYDIRMA
+                     1.3-SATIR SONU BOŞLUK BIRAKMA
+                     1.4-SAĞ HİZALAMA
+                     1.5-GELECEK KODLAMASI (b, d, T 
+2-YAZIMSAL YÖNTEMLER (NOKTALAMA İŞARETLERİNİ KULLANIR)
+3-ANLAMSAL YÖNTEMLER (EŞANLAMLI KELİMELER)
+
+
+
+Görüntü Steganografisi Yöntemleri 
+1-EN ÖNEMSİZ BİTE EKLEME 
+2-MASKELEME VE FİLTRELEME (İŞARETLEME VE FİLİGRAN) 
+3-ALGORİTMALAR VE DÖNÜŞÜMLER
+
